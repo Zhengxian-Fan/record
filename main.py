@@ -267,7 +267,7 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
       numerator += 1
 
     writer.writerow([id, ' '.join(sent0), ' '.join(sent1)] + [str(numerator / denominator)])
-    # print(numerator/denominator)
+print(numerator/denominator)
 
 
     # input_ids,mlm_positions,mlm_ids = get_loss(sent0,l0)
