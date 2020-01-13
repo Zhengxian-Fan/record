@@ -214,9 +214,11 @@ tokenizer = tokenization.FullTokenizer(
   do_lower_case=True)
 
 
-sess = tf.Session(tpu_cluster)
-sess.run(tpu.initialize_system())
-tpu_function.get_tpu_context().set_number_of_shards(8)
+sess = tf.Session(config=tf.ConfigProto(
+device_count={ "CPU": 8},
+inter_op_parallelism_threads=8,
+intra_op_parallelism_threads=1)
+
 loss = build_model()
 saver = tf.train.Saver()
 saver.restore(sess, FLAGS.ckpt)
