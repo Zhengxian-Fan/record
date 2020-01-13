@@ -32,7 +32,7 @@ tf.flags.DEFINE_string(
 
 data_path = FLAGS.data_dir + '/subtaskA_trial_data.csv'
 ans_path = FLAGS.data_dir + '/subtaskA_answers.csv'
-out_path = FLAGS.output_path
+output_path = FLAGS.output_path
 
 
 
