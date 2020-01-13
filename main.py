@@ -217,7 +217,7 @@ tokenizer = tokenization.FullTokenizer(
 sess = tf.Session(config=tf.ConfigProto(
 device_count={ "CPU": 8},
 inter_op_parallelism_threads=8,
-intra_op_parallelism_threads=1)
+intra_op_parallelism_threads=1))
 
 loss = build_model()
 saver = tf.train.Saver()
