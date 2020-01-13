@@ -8,22 +8,12 @@ from absl import flags
 import modeling
 import tensorflow.compat.v1 as tf
 import tokenization
-from tensorflow.contrib import tpu
-from tensorflow.contrib.cluster_resolver import TPUClusterResolver
-from tensorflow.contrib.tpu.python.tpu import tpu_function
+
 
 
 flags = tf.flags
 
 FLAGS = flags.FLAGS
-
-# flags.DEFINE_bool("use_tpu", False, "Whether to use TPU or GPU/CPU.")
-
-tf.flags.DEFINE_string(
-    "tpu_name", None,
-    "The Cloud TPU to use for training. This should be either the name "
-    "used when creating the Cloud TPU, or a grpc://ip.address.of.tpu:8470 "
-    "url.")
 
 tf.flags.DEFINE_string(
     "data_dir", None,
@@ -39,14 +29,10 @@ tf.flags.DEFINE_string(
     "output_path", None,
     "")
 
-tpu_cluster = TPUClusterResolver(
-    tpu=[FLAGS.tpu_name]).get_master()
-
-
 
 data_path = FLAGS.data_dir + '/subtaskA_trial_data.csv'
 ans_path = FLAGS.data_dir + '/subtaskA_answers.csv'
-output_path = FLAGS.output_path
+out_path = FLAGS.output_path
 
 
 
