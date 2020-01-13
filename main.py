@@ -6,7 +6,7 @@ import os,sys
 from absl import app
 from absl import flags
 import modeling
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 import tokenization
 
 
@@ -199,11 +199,11 @@ tokenizer = tokenization.FullTokenizer(
   spm_model_file=FLAGS.config_dir + '/30k-clean.model',
   do_lower_case=True)
 
+with tf.device("/gpu:0"):
+  loss = build_model()
+    
 
-sess = tf.Session(config=tf.ConfigProto(
-device_count={ "CPU": 8},
-inter_op_parallelism_threads=8,
-intra_op_parallelism_threads=1))
+sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
 
 loss = build_model()
 saver = tf.train.Saver()
@@ -253,7 +253,7 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
       res = [id,'0']
     if next(ans) == res:
       numerator += 1
-
+    print(numerator/denominator)
     writer.writerow([id, ' '.join(sent0), ' '.join(sent1)] + [str(numerator / denominator)])
 print(numerator/denominator)
 
