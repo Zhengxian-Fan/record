@@ -215,8 +215,7 @@ with tf.device(device):
 
 
 
-sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True, \
-                  log_device_placement=True))
+sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True))
 
 sess.run(tf.global_variables_initializer())
 saver = tf.train.Saver()
@@ -259,9 +258,9 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
     else:
       res = [id, '0']
     if next(ans) == res:
-      net_gain += abs(loss)
+      net_gain += abs(loss_diff)
       numerator += 1
-    else: net_gain -= abs(loss)
+    else: net_gain -= abs(loss_diff)
     print(numerator / denominator)
     print(net_gain / denominator)
     writer.writerow([id, ' '.join(sent0), ' '.join(sent1)] + [str(numerator / denominator)] + [str(net_gain / denominator)])
