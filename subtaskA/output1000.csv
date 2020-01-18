@@ -1,0 +1,438 @@
+1,he put an elephant into the fridge,he put a turkey into the fridge,1.0
+2,my sister eats an apple after breakfast every day,my sister eats a stone after breakfast every day,1.0
+3,money can be used for buying cars,money can be used for buying stars,1.0
+4,new york is located in the northeastern part of usa,usa is located in the northeastern part of new york,1.0
+6,he was sent to a restaurant for treatment after a car crash,he was sent to a hospital for treatment after a car crash,0.8333333333333334
+8,cans are usually made of gold,cans are usually made of aluminum,0.75
+9,i put my desktop into my suitcase before departure,i put my laptop into my suitcase before departure,0.7777777777777778
+10,i walk to the moon,i walk to the school,0.8
+11,i work 25 hours a day,i work 8 hours a day,0.8181818181818182
+12,i'm hungry for water,i'm hungry for food,0.8333333333333334
+13,this bucket can hold one gallon of water,this basket can hold one gallon of water,0.8461538461538461
+15,i put the rubbish into a trash can,i put the rubbish into a mailbox,0.8
+17,most people become wiser after drinking a lot alcohol,most people become more stupid after drinking a lot alcohol,0.7647058823529411
+18,a salad usually contains grass,a salad usually contains lettuce,0.7777777777777778
+19,computers are everywhere in a forest,trees are everywhere in a forest,0.7894736842105263
+20,my family used to watch tv together after dinner,my family used to watch radio together after dinner,0.8
+21,i became hungry after a whole day starvation,i became sleepy after a whole day starvation,0.8095238095238095
+23,i changed my direction when passing a crossroads,i changed my car when passing a crossroads,0.782608695652174
+24,i had a sweet dream when i was asleep yesterday,i had a sweet dream when i was awake yesterday,0.7916666666666666
+25,my dad drinks a tin of cola everyday,my dad grows a tin of cola everyday,0.8
+26,alice became joyful after felt left out by her friends,alice became sad after felt left out by her friends,0.8076923076923077
+27,bob played hard to prepare for the examination,bob studied hard to prepare for the examination,0.8148148148148148
+28,i was humiliated by him so i broke up with him,i was humiliated by him so i had better friendship with him,0.8214285714285714
+29,i cooked my meal at the restaurant,i paid for my meal at the restaurant,0.8275862068965517
+30,bob loves to play tennis at the indoor stadium,bob loves to play tennis at the sports store,0.8333333333333334
+31,i love eating seafood and i love eating chicken,i love eating seafood so i love eating chicken,0.8387096774193549
+32,i am tall so i have an advantage in basketball,i am short so i have an advantage in basketball,0.84375
+33,mother sings a lullaby to send her baby asleep,mother sings a rock-and-roll to send her baby asleep,0.8484848484848485
+34,this apple is a beautiful golden green color,this apple is a beautiful light blue color,0.8529411764705882
+35,i call my mum with a phone,i call my mum with a drum,0.8571428571428571
+36,i like drinking mercury after dinner,i like drinking coffee after dinner,0.8611111111111112
+38,sugar is the main ingredient in candy,plastic is the main ingredient in candy,0.8421052631578947
+39,he put some soy sauce to make the noodles taste better,he put some soy sauce to make the robot taste better,0.8461538461538461
+41,sailing is an expensive hobby,walking is an expensive hobby,0.8292682926829268
+42,managers greet with each other and begin to bark,managers greet with each other and begin to talk,0.8333333333333334
+43,teachers teach geography with a globe,teachers teach sports with a globe,0.8372093023255814
+44,a funeral is a place for mourning,a funeral is a place for laughter,0.8409090909090909
+45,children have fun in the amusement park,children have fun in the cemetery,0.8444444444444444
+46,mary eats at a restaurant to do the dishes,mary eats at a restaurant to avoid doing the dishes,0.8478260869565217
+47,wool is a form of clothing material,wool is a form of eating material,0.851063829787234
+48,mum is cooking a delicious meal in the kitchen,mum is cooking a delicious meal in the bedroom,0.8541666666666666
+49,cars on the freeway multiply during holidays,cars on the railway multiply during holidays,0.8571428571428571
+50,beef cooked on the drill tastes delicious,beef cooked on the grill tastes delicious,0.86
+51,jerry takes a visiting card from the rolodex to keep in touch with tom,jerry takes a tissue from the rolodex to keep in touch with tom,0.8627450980392157
+52,pictures can be kept on films temporarily,pictures can be kept on films eternally,0.8653846153846154
+53,we use a handsaw to cut wood,we use a penknife to cut wood,0.8679245283018868
+54,human beings can travel to the moon by spacecraft,human beings can travel to the moon by bus,0.8703703703703703
+55,she is happy to play with her friends,she is sad to play with her friends,0.8727272727272727
+57,we took television sets to commemorate important days,we took photos to commemorate important days,0.8596491228070176
+58,i park my car in the living room,i park my car in the garage,0.8620689655172413
+59,he turns on the radio to listen to music,he turns on the light to listen to music,0.864406779661017
+61,a giant panda is a black and white mammal found in asia,a giant panda is a black and white bird found in asia,0.8524590163934426
+62,people put on summer dresses when summer comes,people put on summer dresses when winter comes,0.8548387096774194
+63,smoking is bad for health,smoking is good for health,0.8571428571428571
+64,a power socket has a copper housing for safety,a power socket has a plastic housing for safety,0.859375
+66,i write a letter to tell her i am fine,i rip a letter to tell her i am fine,0.8484848484848485
+67,a dining room is a place where people sleep,a dining room is a place where people eat,0.8507462686567164
+68,he breaks the iron board with a bare hand,he breaks the wooden board with a bare hand,0.8529411764705882
+70,the farm is destroyed by a tomato,the farm is destroyed by a tornado,0.8428571428571429
+71,he is so famous that everybody has heard of him,he is so famous that nobody has heard of him,0.8450704225352113
+72,i like her songs because she is a good singer,i like her songs because she is a good cook,0.8472222222222222
+73,there are many aquatic plants in the pond,there are many trees in the pond,0.8493150684931506
+76,lily goes to the cinema to watch a movie,lily goes to the cinema to listen to a concert,0.8289473684210527
+77,centigrade is a measure of acidity,centigrade is a measure of temperature,0.8311688311688312
+78,the ancients used a compass as a guidance,the ancients used a satellite as a guidance,0.8333333333333334
+79,the fire was caused by a lighted cigarette,the fire was caused by a glass of water,0.8354430379746836
+80,december is the 12th month of a year,december is the 13th month of a year,0.8375
+82,maid is an important member of a family,mother is an important member of a family,0.8292682926829268
+83,he opens the door with a lock,he opens the door with a key,0.8313253012048193
+84,a sea is a large body of salt water,a sea is a large body of sweet water,0.8333333333333334
+85,a rooster can lay eggs,a hen can lay eggs,0.8352941176470589
+86,farmers are growing mushrooms under the sun,farmers are growing crops under the sun,0.8372093023255814
+87,tom buys his girlfriend a bunch of roses on valentine's day,tom buys his girlfriend a bunch of carnations on valentine's day,0.8390804597701149
+88,soup is best eaten with a spoon,soup is best eaten with a fork,0.8409090909090909
+89,there are many fishes in the desert,there are many fishes in the sea,0.8426966292134831
+90,i fly to new york to see the statue of liberty,i fly to paris to see the statue of liberty,0.8444444444444444
+91,nissan is a foreign plane manufacturer,nissan is a foreign car manufacturer,0.8461538461538461
+92,food is stored in the pan,food is stored in the fridge,0.8478260869565217
+94,she goes traveling on holidays,she goes traveling on weekdays,0.8404255319148937
+95,laughter is a sign of joy,laughter is a sign of sorrow,0.8421052631578947
+96,mary sits at the closet and begins reading,mary sits at the desk and begins reading,0.84375
+98,he climbs up the mountain with the help of a rope,he climbs up the mountain with the help of a ribbon,0.8367346938775511
+99,he opens a storybook and begins to read,he opens a storybook and begins to cook,0.8383838383838383
+100,i put some chili powder to create a sweet flavor,i put some chili powder to create a spicy flavor,0.84
+105,he buys something to eat from the convenient store,he sells something to eat to the convenient store,0.8095238095238095
+106,he gives the driver a gift to thank him for a free ride,he killed the driver to thank him for a free ride,0.8113207547169812
+107,she feels ill and goes to see a doctor,she feels ill and goes to see a teacher,0.8130841121495327
+108,i buy a cd to listen to the latest songs,i buy a cd to listen to the latest advertisements,0.8148148148148148
+109,it takes me 3 seconds to read the book,it takes me 3 days to read the book,0.8165137614678899
+110,he is allergic to cats so he keeps a dog as a pet,he is allergic to cats so he keeps a cat as a pet,0.8181818181818182
+112,i wear a wristwatch to be informed of the time,i wear a belfry to be informed of the time,0.8125
+114,jim invites amy to dance in a pool,jim invites amy to dance in a ball,0.8070175438596491
+115,people lived in houses made of wood in the past,people lived in houses made of wool in the past,0.808695652173913
+117,the regular meeting is held at 2 o'clock in the morning,the regular meeting is held at 2 o'clock in the afternoon,0.8034188034188035
+118,"cool the drink with some ice, please","heat the drink with some ice, please",0.8050847457627118
+119,i eat apples because of my illness,i take medicine because of my illness,0.8067226890756303
+120,he catches a subway train in a subway stop,he catches a subway train in a bus stop,0.8083333333333333
+123,he had his hair cut at the barber's,he had his hair cut at the butcher's,0.7967479674796748
+124,i drink some glass,i drink some water,0.7983870967741935
+125,tim and mary got married on january 31st,tim and mary got married on february 31st,0.8
+126,she writes diaries in a magazine,she writes diaries in a notebook,0.8015873015873016
+127,the girl next to mary in the photo is her nephew,the boy next to mary in the photo is her nephew,0.8031496062992126
+130,children take music classes in the gym,children take music classes in the music room,0.7923076923076923
+131,obama has served as president of the usa for twelve years,obama has served as president of the usa for eight years,0.7938931297709924
+132,children like flying kites in the spring,children like flying planes in the spring,0.7954545454545454
+134,it is snowy and very hot outside,it is snowy and very cold outside,0.7910447761194029
+135,the car stops at the green light,the car stops at the red light,0.7925925925925926
+137,trump was emperor of the usa in 2018,trump was president of the usa in 2018,0.7883211678832117
+140,i buy a toy for my small brother for a shell,i buy a toy for my small brother for a dollar,0.7785714285714286
+141,they have to live in a mansion because of poverty,they have to live in a loft because of poverty,0.7801418439716312
+142,it is a pity that she only comes the second in the competition,it is a pity that she only comes the first in the competition,0.7816901408450704
+144,the taj mahal is made of white marbles,the taj mahal is made of white maples,0.7777777777777778
+145,they speak in english in order to communicate with each other,they speak in c++ in order to communicate with each other,0.7793103448275862
+146,stephen william hawking was a great actor,stephen william hawking was a great scientist,0.7808219178082192
+147,it is really painful for a mother to give birth to her baby,it is really painful for a father to give birth to his baby,0.782312925170068
+148,they sleep in a hotel while camping in the forest,they sleep in a tent while camping in the forest,0.7837837837837838
+149,i water my mp3 player two times a week,i charge my mp3 player two times a week,0.785234899328859
+150,mongolia is mass surrounded by water,the uk is mass surrounded by water,0.7866666666666666
+151,she wears glasses because of nearsightedness,she wears clothes because of nearsightedness,0.7880794701986755
+152,tim buys a lock to prevent his bike from being stolen,tim buys a pair of socks to prevent his bike from being stolen,0.7894736842105263
+153,the doctor treats his patients carefully,the cook treats his patients carefully,0.7908496732026143
+154,the titanic struck an iceberg and sank,the titanic struck a life buoy and sank,0.7922077922077922
+155,he paints the ceiling with cola,he paints the ceiling with paints,0.7935483870967742
+156,she writes to her pen pal because they cannot meet each other,she writes to her pen pal because they meet each other every day,0.7948717948717948
+157,a lemon tastes sour when it goes bad,milk tastes sour when it goes bad,0.7961783439490446
+159,she is cut by a knife accidentally,she is cut by a carpet accidentally,0.7924528301886793
+161,people burnt ice for warmth th the past,people burnt coals for warmth in the past,0.7888198757763976
+162,tony gives his girlfriend chocolates to propose,tony gives his girlfriend chocolates to break up,0.7901234567901234
+163,she brings an umbrella because of the rain,she brings a scarf because of the rain,0.7914110429447853
+164,i will pick you up at the bus stop,i will pick you up on the cd disk,0.7926829268292683
+165,we had lunch together on march 33rd,we had lunch together on march 31st,0.793939393939394
+166,he practices running on the playground every morning,he practices running on noodles every morning,0.7951807228915663
+168,he walks in from the wall,he walks in from the door,0.7916666666666666
+169,she rides a bike to work,she rides a chair to work,0.7928994082840237
+170,he writes his homework on the dew,he writes his homework on the notebook,0.7941176470588235
+171,a rabbit likes eating meat,a rabbit likes eating carrots,0.7953216374269005
+172,the lake will be frozen in winter,the lake will be frozen in summer,0.7965116279069767
+173,she washes her computer with warm water,she washes her clothes with warm water,0.7976878612716763
+174,i cut a piece of cloth with chopsticks,i cut a piece of cloth with scissors,0.7988505747126436
+175,mary adds some detergent to her bread,mary adds some butter to her bread,0.8
+176,i am preparing for the trip tomorrow,i am preparing for the trip yesterday,0.8011363636363636
+177,i begin walking as soon as the light turns green,i begin walking as soon as the light turns purple,0.8022598870056498
+178,i drink coke with a chopstick,i drink coke with a straw,0.8033707865168539
+179,the cat enjoys playing knitting wool,the knitting wool enjoys playing cats,0.8044692737430168
+180,she takes attractive selfies with her smartphone,she takes attractive selfies with her headphone,0.8055555555555556
+181,i buy a boyfriend for my sister,i buy a ring for my sister,0.8066298342541437
+182,his father got angry because he failed the math exam,his father got excited because he failed the math exam,0.8076923076923077
+183,i go to the museum to see paintings painted by famous artists,i go to the museum to get my clothes cleaned,0.8087431693989071
+184,bob bought chocolate for his enemy on valentine's day,bob bought chocolate for his girl friend on valentine's day,0.8097826086956522
+185,french fries are made of potatoes,french fries are made of oranges,0.8108108108108109
+186,mars is the most suitable homeland for human beings,earth is the most suitable homeland for human beings,0.8118279569892473
+188,i'm thirsty so i drink freshwater,i'm thirsty so i drink seawater,0.8085106382978723
+189,alice is running on a playground,alice is running on the sea,0.8095238095238095
+190,bob looks painful because he hurts his fingers,bob looks delightful because he hurts his fingers,0.8105263157894737
+193,i graduated from college at the age of 22,i graduated from college at the age of 3,0.8031088082901554
+196,i went underwater and held my breath,i went underwater and took a deep breath,0.7959183673469388
+197,dogs can feed blood to their young ones,dogs can feed milk to their young ones,0.7969543147208121
+198,frank goes to the bank to save people,frank goes to the bank to save money,0.797979797979798
+199,jack can read books before learning basic words,jack can read books after learning basic words,0.7989949748743719
+200,kids fly kites in a windless day,kids fly kites in a windy day,0.8
+202,jason put a tea bag into his cup to make a cup of coffee,jason put a tea bag into his cup to make a cup of tea,0.7970297029702971
+203,harry feels grieved seeing his old friends,harry feels pleased seeing his old friends,0.7980295566502463
+204,gloria determines to lose weight so she eats less,gloria determines to lose weight so she eats more,0.7990196078431373
+205,"saying ""goodbye"", he walked out of the classroom and went home","saying ""hello"", he walked out of the classroom and went home",0.8
+206,danis put his clothes into the washing machine,danis put his smartphone into the washing machine,0.8009708737864077
+207,billy rides a horse to cross the bridge,billy rides an ant to cross the bridge,0.8019323671497585
+208,bell takes a raft rushing down the waterfall,bell takes a raft rushing up the waterfall,0.8028846153846154
+209,george put a broom in his mouth to brush teeth,george put a toothbrush in his mouth to brush teeth,0.8038277511961722
+210,i closed my mouth against the bright light,i closed my eyes against the bright light,0.8047619047619048
+211,my heart beats slower when i quicken my pace,my heart beats faster when i quicken my pace,0.8056872037914692
+212,bob plays basketball with his cute dog,bob plays frisbee with his cute dog,0.8066037735849056
+213,fitz uses a pen to open the lock,fitz uses a key to open the lock,0.8075117370892019
+214,frank had s stomachache so he drank more cold water,frank had a stomachache so he drank more hot water,0.8084112149532711
+215,eric told a lie and his mother praised him,eric told a lie and his mother scolded him,0.8093023255813954
+219,the solar system is located in earth,earth is located in the solar system,0.7990867579908676
+220,"when you smile at others, they will smile at you","when you smile at others, they will cry to you",0.8
+221,"his favorite color is purple, the same color as the sky","his favorite color is blue, the same color as the sky",0.8009049773755657
+223,i dried my hair before using shampoo,i wet my hair before using shampoo,0.7982062780269058
+224,the man in black cured him with a bullet,the man in black killed him with a bullet,0.7991071428571429
+226,elisa was terrified bitten by a snake,elisa was terrified bitten by a book,0.7964601769911505
+227,"in the dark, i turn on the light to read a book","in the dark, i turn off the light to read a book",0.7973568281938326
+228,atlantic is the biggest continent in the world,asia is the biggest continent in the world,0.7982456140350878
+229,"the cat is sitting on the blanket, because she is warm","the cat is sitting on the blanket, because it is warm",0.7991266375545851
+232,she decided to eat more healthy foods like hamburgers,she decided to eat more healthy foods like vegetables,0.7931034482758621
+233,max stays close to the campfire to keep warm,max stays close to the campfire to keep cool,0.7939914163090128
+234,chloe got distracted when she was bored,chloe got concentrated when she was bored,0.7948717948717948
+235,he got a cold and coughed from time to time,he got a cold and laughed from time to time,0.7957446808510639
+236,mark ate a big bitter cherry pie,mark ate a big sweet cherry pie,0.7966101694915254
+237,gloria wears a hat on her head,gloria wears a cat on her head,0.7974683544303798
+238,harry went to the barbershop to have his hair cut,harry went to the barbershop to have his glasses repaired,0.7983193277310925
+239,reilly is sleeping on the couch,reilly is sleeping on the window,0.799163179916318
+240,i have a lamp on my desk,i have a desk on my lamp,0.8
+241,eric stalled for a while so we ended up late,eric stalled for a while so we ended up early,0.8008298755186722
+243,my friend is cooking a meal on a stove,my friend is cooking a meal on a stone,0.7983539094650206
+244,riko made a cup of banana milkshake with apples and milk,riko made a cup of banana milkshake with bananas and milk,0.7991803278688525
+245,my mother was preparing breakfast when i woke up in the morning,my mother was preparing dinner when i woke up in the morning,0.8
+247,my mother went to a dentist to check her teeth,my mother went to an artist to check her teeth,0.7975708502024291
+248,mike cried after hearing an interesting joke,mike laughed after hearing an interesting joke,0.7983870967741935
+250,being involved in a car accident can ease your life,being involved in a car accident can ruin your life,0.796
+251,it is dark outside because it is ten am,it is dark outside because it is one am,0.796812749003984
+252,harry was terrified because of the nightmare,harry was relaxed because of the nightmare,0.7976190476190477
+253,astrid kissed him out of pure love,astrid kissed him out of pure hatred,0.7984189723320159
+255,throwing stones at cats is treating them badly,throwing stones at cats is treating them nicely,0.796078431372549
+256,society demands reward for criminals,society demands penalty for criminals,0.796875
+257,he saw a car floating at sea,he saw a ship floating at sea,0.7976653696498055
+258,people can buy apples at a fruit shop,people can buy potatoes at a fruit shop,0.7984496124031008
+259,i should take off my trousers when swimming,i should take off my underpants when swimming,0.7992277992277992
+262,if you feel cool you may sweat,if you feel hot you may sweat,0.7938931297709924
+265,i study five days a week,i study eight days a week,0.7886792452830189
+266,i see a student chatting with my son,i see a mute chatting with my son,0.7894736842105263
+268,i see a cripple running,i see a man running,0.7873134328358209
+269,i saw an egg walk on the road,i saw a chick walk on the road,0.7881040892193308
+270,a tiger is probable to beat a dog,a dog is probable to beat a tiger,0.7888888888888889
+272,now i plan to sleep so i take a coffee,now i plan to sleep so i go to bed,0.7867647058823529
+273,i travel to the united states by plane,i travel to the united states by rocket,0.7875457875457875
+274,we should borrow things after returning them,we should return things after borrowing them,0.7883211678832117
+276,i like swimming in the river,i like swimming in the hole,0.7862318840579711
+277,i want world peace,i want world war,0.7870036101083032
+278,a snowman will exist forever,a snowman won't exist forever,0.7877697841726619
+279,i like his toy so i can grab it,i like his toy but i can't grab it,0.7885304659498208
+280,patients are cured by nurses,patients are cured by doctors,0.7892857142857143
+281,teachers can help you do homework,flowers can help you do homework,0.7900355871886121
+282,we should eat more sugar to protect teeth,we should eat less sugar to protect teeth,0.7907801418439716
+283,we should take the ice when we catch a cold,we should take medicine when we catch a cold,0.7915194346289752
+287,mobile phones don't need charging,mobile phones need charging,0.7839721254355401
+288,if we are going to be late we should walk,if we are going to be late we should run,0.7847222222222222
+289,you can go to the moon by rocket,you can go to the moon by subway,0.7854671280276817
+290,i see a boy playing a computer,i see a dog playing a computer,0.7862068965517242
+292,milk is made by chicken,milk is made by cow,0.7842465753424658
+293,"on mars, there have many countries","on mars, there are no metropolitan areas",0.7849829351535836
+294,a student can learn how to read,a student can't learn his course,0.7857142857142857
+295,everyone needs to eat,someone can live who don't eat anything,0.7864406779661017
+296,an owl can see on a dark night,a man can see on a dark night,0.7871621621621622
+297,it is always cold in january in the northern earth,it is always cold in july in the northern earth,0.7878787878787878
+299,cancer is a disease,cancer can bring happiness to us,0.7859531772575251
+300,people can feel pain,people can only feel happiness,0.7866666666666666
+301,fish can live in a land without water,fish need water to live,0.7873754152823921
+303,everyone lives in the country,some people live in the country,0.7854785478547854
+305,if you want to dig a hole then you should use a shovel,if you want to dig a hole then you should use the spoon,0.7836065573770492
+306,soldiers will be punished for bravery,soldiers can get medals for bravery,0.7843137254901961
+308,i can hold up a car,i can hold up a can of soda,0.7824675324675324
+309,everyone is good-looking,most people want to be good-looking,0.7831715210355987
+310,many vegetables grow on the cement,many vegetables grow on the ground,0.7838709677419354
+311,a puzzle can be solved easily,a puzzle is a challenge,0.7845659163987139
+312,a cord can be used for treatment,a cord can be used for tying things together,0.7852564102564102
+314,a bus takes passengers from a bus stop,a bus takes passengers from the sea,0.7834394904458599
+315,ireland is a country,ireland is a planet,0.7841269841269841
+316,a person doesn't want moldy bread,a person want moldy bread,0.7848101265822784
+317,oil comes from the air,oil comes from the ground,0.7854889589905363
+318,planes are almost made of gold,planes are almost made of aluminum,0.7861635220125787
+319,you can find aliens in a zoo,you can find zebras in a zoo,0.786833855799373
+320,you would sleep because you want to rest,you would dance because you want to rest,0.7875
+321,if you want to go to school then you should pay your fees,if you want to go to work then you should pay your fees,0.7881619937694704
+322,i see a cat eating a fish,i see a sheep eating a fish,0.7888198757763976
+323,my dad's dad is my grandma,my dad's dad is my grandpa,0.7894736842105263
+324,eating is an emotion between people,love is an emotion between people,0.7901234567901234
+325,we can buy fresh fruits and vegetables from a coffee shop,we can buy fresh fruits and vegetables from a grocer,0.7907692307692308
+326,you are likely to find a folder in a drawer,you are likely to find a cake in a drawer,0.7914110429447853
+327,most birds include penguins can fly,most birds other than penguins can fly,0.7920489296636085
+330,people feel pleasure while kissing,people feel sick while kissing,0.7878787878787878
+331,i don't like climbing because i fear of heights,i like climbing because i fear of heights,0.7885196374622356
+332,people usually eat ice cream in summer,people usually eat ice cream in winter,0.7891566265060241
+334,we can see white clouds and dark clouds in the air,we can only see white clouds in the air,0.7874251497005988
+335,i lie on a hamburger in my room,i eat a hamburger in my room,0.7880597014925373
+336,people usually use wood to put out a fire,people usually use water to put out a fire,0.7886904761904762
+337,people plant seeds and then harvest fruits,people can harvest fruits without planting seeds,0.7893175074183977
+338,people will get dry while taking a shower,people will get wet while taking a shower,0.7899408284023669
+339,people can play the violin without learning,people can play the violin after learning the violin,0.7905604719764012
+341,most of the leaves are red,most of the leaves are green,0.7888563049853372
+342,i will celebrate the failure of the game,i will celebrate the victory of the game,0.7894736842105263
+343,i will have a trip to a police office,i will have a trip to a theme park,0.7900874635568513
+344,i should sleep at night,i should study during whole night,0.7906976744186046
+345,i can drink after driving,i can drive after drinking,0.7913043478260869
+346,i saw a baby holding a woman.,i saw a woman holding a baby.,0.791907514450867
+348,i can cook any food simply,i can cook some food simply,0.7902298850574713
+349,i saw a round pizza.,i saw a square pizza.,0.7908309455587392
+350,i saw an island on land.,i saw an island in the sea.,0.7914285714285715
+354,my brother is my family member,my friend is my family member,0.7853107344632768
+355,i can use the money to buy some houses,i can use the money to buy all houses,0.7859154929577464
+356,dogs are animals,a stone is an animal,0.7865168539325843
+358,dogs like eating meat,dogs like eating grass,0.7849162011173184
+359,i saw a man wearing glasses of two lens.,i saw a man wearing glasses of three lens,0.7855153203342619
+360,i will cry if my family is dead,i will laugh if my family is dead,0.7861111111111111
+361,a man should not play with violent tigers,a man should play with violent tigers,0.7867036011080333
+362,i will find a job if i need money,i will quit my job if i need money,0.787292817679558
+363,i am unhappy because i am poor,i am happy because i am poor,0.7878787878787878
+364,i like cakes because i like salty food,i like cakes because i have a sweet tooth,0.7884615384615384
+365,he walks faster than the driving car.,he walks more slowly than the driving car,0.7890410958904109
+366,today i will go to the amusement park to see elephants.,today i will go to the zoo to see the elephants,0.7896174863387978
+367,i need to eat fruits and vegetables to keep healthy.,eating fruits and vegetables makes me fat,0.7901907356948229
+368,"she likes flowers, so i send her roses.","she doesn't like flowers, so i send her roses.",0.7907608695652174
+369,i saw a fish breathing in the water.,i saw a man breathing in the water.,0.7913279132791328
+370,he lay under the apple tree.,he lay under the watermelon tree,0.7918918918918919
+371,today i will go to my hometowns,today i will go to my hometown,0.7924528301886793
+373,i drink coffee before i go to bed.,i drink milk before i go to bed.,0.7908847184986595
+374,he is a hunter afraid of little animals.,he is a hunter of hunting animals,0.7914438502673797
+375,i use computers to play computer games.,i use calculators to play computer games.,0.792
+376,i have a light bulb emitting black light.,i have a light bulb emitting red light,0.7925531914893617
+377,some people teach monkey acrobatics,some monkeys teach human acrobatics,0.7931034482758621
+378,if you want to take a walk then you should wear shoes,if you want to take a walk then you should wear a hat,0.7936507936507936
+379,if you want to make people laugh then you can tell a joke,if you want to make people laugh then you can hit them,0.7941952506596306
+380,i use the refrigerator to keep food.,i use the refrigerator to cook food.,0.7947368421052632
+381,i should learn math in my school,i should play games at my school,0.7952755905511811
+382,he put the stone in his hand.,he put the fire in his hand.,0.7958115183246073
+383,you may always find a computer user in a wine bar,you may find a computer user in a computer lab,0.7963446475195822
+384,people can surf on the water.,people usually sleep on the water.,0.796875
+385,if you want to walk on the street then you should have money,if you want to go to a restaurant then you should have money,0.7974025974025974
+386,pushing a bike requires much strength,pushing a car requires much strength,0.7979274611398963
+387,ennui would make you want to see a film,ennui would make you become happy,0.7984496124031008
+388,something you find at a house is a fighter plane,something you find at a military base is a fighter plane,0.7989690721649485
+390,accidents can happen anywhere,accidents are a good thing,0.7974358974358975
+392,a child will be a child forever,a child can become an adult,0.7959183673469388
+393,batteries can power a lantern forever,batteries can power a lantern,0.7964376590330788
+394,a drought happens when insufficient rain falls,a drought happens when excessive rain falls,0.7969543147208121
+395,if you want to have a haircut then you should go to a library,if you want to have a haircut then you should go to a hair salon,0.7974683544303798
+396,if you want to read a book then you should get it from the library,if you want to read a book then you should get it from the restaurant,0.797979797979798
+397,the effect of attending a classical concert is falling asleep,the effect of attending a classical concert is impetuous,0.7984886649874056
+398,something that might happen when you diminish your own hunger is eat,something that might happen when you diminish your own hunger is taking exercise,0.7989949748743719
+399,something you find in the home is actors,something you find at a movie is actors,0.7994987468671679
+400,going on strike is for winning concessions from employers,going on strike is for having fun,0.8
+401,a person is anxious for undesired things,a person doesn't want undesired things,0.800498753117207
+402,you are likely to find a grape in a fruit bowl,you are likely to find a potato in a fruit bowl,0.8009950248756219
+403,something you find in downtown is a volcano,something you find in downtown is a police station,0.8014888337468983
+404,his hair is getting shorter after a haircut,his hair is getting longer after a haircut,0.801980198019802
+406,taking a walk is good for health in general,taking a walk is harmful to health in general,0.8004926108374384
+407,people usually eat fresh bread,people usually eat moldy bread,0.800982800982801
+408,people can make friends in clubs,people can't make friends in clubs,0.8014705882352942
+409,he is a thrifty man and he often wastes food,he is a wasteful man and he often wastes food,0.8019559902200489
+410,he was very energetic because he stayed up late last night,he was very tired because he stayed up late last night,0.802439024390244
+411,he goes to the cinema to watch animals,he goes to the cinema to watch movies,0.8029197080291971
+412,students usually play their mobile phones in class time,students usually listen to their teachers in class time,0.8033980582524272
+414,many people will die in war,no one will die in war,0.8019323671497585
+418,he washes clothes in a washing machine,he washes potatoes in a washing machine,0.7966507177033493
+420,people like to wear wet clothes,people like to wear dry clothes,0.7952380952380952
+421,he is younger than his father,he is older than his father,0.7957244655581948
+422,people can read books in the library,people can speak loudly in the library,0.7962085308056872
+423,people can go back to where they are after they circle the earth,people can't go back to where they are after they circle the earth,0.7966903073286052
+426,you might feel irritated when you're stuck in traffic,you might feel happy when you're stuck in traffic,0.7934272300469484
+427,we will get pins and needles from sitting or standing for long periods of time,we will feel relaxed from sitting or standing for long periods of time,0.7939110070257611
+428,cats and mice are good friends,cats like to catch mice,0.794392523364486
+429,the sea is salty and bitter,the sea is sweet,0.7948717948717948
+430,fireflies can make light,fireflies are usually annoying,0.7953488372093023
+433,a man with a big head must be clever,a man with a big head is not necessarily clever,0.792147806004619
+434,breathing through the nose is healthy,breathing through the mouse is healthy,0.7926267281105991
+437,vitamin c should not be eaten with seafood,vitamin c can be eaten with seafood,0.7894736842105263
+438,smoking is not allowed in public places,smoking is allowed in public places,0.7899543378995434
+440,ears can smell,ears can hear sounds,0.7886363636363637
+441,the football is played by hand,the basketball is played by hand,0.7891156462585034
+444,eating fruits is good for health,eating fruits is bad for health,0.786036036036036
+445,children need to drink milk before going to school,children need to drink beer before going to school,0.7865168539325843
+446,i play football every day because i love playing football,i play football every day because i love playing computer games,0.7869955156950673
+447,"it is rainy, so we can play football outside","it is sunny, so we can play football outside",0.7874720357941835
+448,students have to take notes in class,students have to copy homework in class,0.7879464285714286
+449,tokyo is in china,tokyo is in japan,0.7884187082405345
+450,"in the evening, i will eat dinner","in the evening, i will eat breakfast",0.7888888888888889
+451,"i am tired, so i need to go to work","i am tired, so i need to go to bed",0.7893569844789357
+452,birds live in the ocean,birds live in forests,0.7898230088495575
+453,there are different kinds of trees in the ocean,there are different kinds of trees in the forest,0.7902869757174393
+454,i take a television to school every day,i take a mobile phone to school every day,0.7907488986784141
+455,"the bag is too weighty, so i cannot hold it","the bag is too light, so i cannot hold it",0.7912087912087912
+456,i am ill so i need to see an actor,i am ill so i need to see a doctor,0.7916666666666666
+457,i work hard so i fail the exam finally,i work hard so i pass the exam finally,0.7921225382932167
+459,it is summer so i need to put on more clothes,it is winter so i need to put on more clothes,0.7908496732026143
+461,i am hungry now so i am going to a restaurant,i am hungry now so i am going to a hospital,0.789587852494577
+462,the food tastes awful so i want to eat it again,the food tastes good so i want to eat it again,0.79004329004329
+463,most grasses are green,most grasses are black,0.7904967602591793
+464,we meet snakes in the forest,we meet whales in the forest,0.790948275862069
+465,he put out the fire with oil,he put out the fire with water,0.7913978494623656
+466,he often listens to the video,he often listens to the music,0.7918454935622318
+467,there is a blackboard in the front of the classroom,there is a sea in the front of the classroom,0.7922912205567452
+468,we take photos of snowflakes in winter,we take photos of willow catkins in winter,0.7927350427350427
+470,they feel colder after the snow,they feel warmer after the snow,0.7914893617021277
+471,he cut metal with scissors,he cut the paper with scissors,0.7919320594479831
+472,my family fly kites on sunny days,my family fly kites on rainy days,0.7923728813559322
+474,they search penguins in the arctic,they search polar bears in the arctic,0.7911392405063291
+476,the cat caught a mouse,the cat caught a tiger,0.7899159663865546
+477,some birds are flying in the sky,some fish are flying in the sky,0.790356394129979
+478,he built a snowman on a winter day,he built a snowman on a summer day,0.7907949790794979
+479,most plants provide carbon dioxide for the human,most plants provide oxygen for the human,0.791231732776618
+480,wheat grows in the ocean,wheat grows in the land,0.7916666666666666
+482,thirst would make you want to sleep,thirst would make you want to drink water,0.7904564315352697
+484,african skin is mostly black,african skin is mostly white,0.7892561983471075
+487,the color of animal blood includes not only red,the color of animal blood includes only red,0.7864476386036962
+489,many insects have a sense of smell,all insects have no sense of smell,0.7852760736196319
+490,the fish is sweet,the fish is fishy,0.7857142857142857
+491,the turtle usually lives very short,the turtle usually lives a long time,0.7861507128309573
+492,the leaves of many trees fall in autumn,leaves grow on trees forever,0.7865853658536586
+493,bones are soft,bones are hard,0.7870182555780934
+494,the fire has many colors,the fire has only one color,0.7874493927125507
+495,silverware is good for food,silverware is bad for food,0.7878787878787878
+496,the seawater is blue,the seawater is colorless and transparent,0.7883064516129032
+497,mineral water is drinkable,seawater is drinkable,0.7887323943661971
+499,human tears are generally sweet,human tears are usually salty,0.7875751503006012
+500,cats generally like to eat vegetables,cats usually like fish,0.788
+501,the audiences of concerts are usually quiet,the audiences of concerts are usually noisy,0.7884231536926147
+502,wild geese fly south in winter in the northern hemisphere,wild geese fly north in winter in the northern hemisphere,0.7888446215139442
+503,"in nature, the leaves of all plants are oval","in nature, there aren't plants with square leaves",0.7892644135188867
+504,there may be a rainbow after the rain,there may be more polluted after the rain,0.7896825396825397
+505,paralympic games are for the disabled,the olympic games for the disabled,0.7900990099009901
+507,when it snows it isn't cold,when it snows it is cold,0.7889546351084813
+508,i am born in china so i am chinese,i am born in japan so i am chinese,0.7893700787401575
+509,humans walk with four legs,humans walk with two legs,0.7897838899803536
+510,a car is a kind of motor vehicle,a car is a kind of animal,0.7901960784313725
+511,sea water is sweet,sea water is salty,0.7906066536203522
+512,if you want to go on the internet then you should buy a computer,if you want to go on the internet then you should buy a book,0.791015625
+513,christmas is the twelfth month of the year,christmas is the thirteenth month of the year,0.7914230019493177
+514,we can judge whether one can buy a beer by his age,we can judge whether one can buy a beer by his height,0.791828793774319
+515,peace brings suffering,war brings suffering,0.7922330097087379
+516,parents love their kids,parents hate their kids,0.7926356589147286
+517,if you want to sleep you need to go to bathroom,if you want to sleep you need to go to bedroom,0.793036750483559
+518,a pig can lay eggs,a bird can lay eggs,0.7934362934362934
+519,i love music so i play the piano every day,i love music so i play basketball every day,0.7938342967244701
+520,raincoats are used on rainy days,raincoats are used on sunny days,0.7942307692307692
+521,nurses teach students,teachers teach students,0.7946257197696737
+523,we develop our friendship by chatting with each other,we develop our friendship by fighting with each other,0.7934990439770554
+524,an eraser can be used to write on paper,a pen can be used to write on paper,0.7938931297709924
+526,the south pole is very hot,the south pole is very cold,0.7927756653992395
+527,ordinary cars have four wheels,ordinary cars have no wheels,0.793168880455408
+528,ears are for listening,ears are for seeing,0.7935606060606061
+530,the words are so big that i cannot read them clearly,the words are so small that i cannot read them clearly,0.7924528301886793
+531,i run every day to exercise,i sleep every day to exercise,0.7928436911487758
+532,i ran so fast that i won the championship,i ran so slowly that i won the championship,0.793233082706767
+533,comedy makes me laugh,tragedy makes me laugh,0.7936210131332082
+534,i like mathematics so i majored in mathematics,i like art so i majored in mathematics,0.7940074906367042
+536,snakes are able to swim,snakes are able to fly,0.792910447761194
+537,the paper is made from wood,the paper is made from soil,0.7932960893854749
+539,a rabbit can eat a frog,a rabbit can eat a carrot,0.7922077922077922
+541,a student will be sad if he doesn't pass the exam,a student will die if he doesn't pass the exam,0.7911275415896488
+542,it's possible to ski in russia,it's possible to ski in sahara,0.7915129151291513
+543,smuggling drugs is a nasty business,smuggling drugs will be commended,0.7918968692449355
+546,if you want to sew then you should get a gun,if you want to sew then you should get a needle,0.7893772893772893
+547,sometimes people put gloves on their hands,sometimes people put shoes on their hands,0.7897623400365631
+548,"when you are near-sighted, you can't see things near at hand","when you are near-sighted, you can't see things far away",0.7901459854014599
+550,the clothes will be clean after being washed,the clothes will be dirty after being washed,0.7890909090909091
+551,we can just wait for their self-healing after we break our legs,we usually go to the hospital after we break our legs,0.7894736842105263
+552,being sedentary is a good thing,being sedentary is not a good thing,0.7898550724637681
+553,a dog usually bite strangers when it sees them,a dog usually bite acquaintances when it sees them,0.7902350813743219
+554,ripe apples are hot,ripe apples are sweet,0.7906137184115524
