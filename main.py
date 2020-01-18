@@ -230,12 +230,11 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
   next(data)
   numerator = 0
   denominator = 0
+  net_gain = 0
   for line in data:
     denominator += 1
     id, sent0, sent1 = line
-
-    sent0, sent1 = sent0.lower().split(' '), sent1.lower().split(' ')
-
+    sent0, sent1 = semantics.get_phrases(sent0.lower()), semantics.get_phrases(sent1.lower())
     l0, l1 = list(sent0), list(sent1)
     feed_dict0 = get_feed_dict(sent0, l0)
     feed_dict1 = get_feed_dict(sent1, l1)
@@ -247,25 +246,25 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
     # print("predictions", p1)
     # print("sent",sent0)
     # # print("prediction",loss0)
-
-    print(loss0,loss1)
     # # print(p1,p2)
     # p1 = list(loss0)
     # p1 = [int(i) for i in p1]
     # # print(tokenizer.convert_ids_to_tokens(feed_dict0["input_ids:0"][0]))
     # print("predict",tokenizer.convert_ids_to_tokens(p1))
     # print(loss0[1].shape)
-
+    loss_diff = loss0 - loss1
     res = []
     if loss0 < loss1:
       res = [id, '1']
     else:
       res = [id, '0']
     if next(ans) == res:
+      net_gain += abs(loss)
       numerator += 1
+    else: net_gain -= abs(loss)
     print(numerator / denominator)
-    writer.writerow([id, ' '.join(sent0), ' '.join(sent1)] + [str(numerator / denominator)])
-print(numerator / denominator)
+    print(net_gain / denominator)
+    writer.writerow([id, ' '.join(sent0), ' '.join(sent1)] + [str(numerator / denominator)] + [str(net_gain / denominator)])
 
 # filtered_output_path = 'subtaskA/filtered_output.csv'
 # with open(output_path) as input, open(filtered_output_path, 'w') as output:
