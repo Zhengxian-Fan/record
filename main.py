@@ -91,7 +91,7 @@ def get_mlm_output(input_tensor, albert_config, mlm_positions, output_weights, l
     masked_lm_predictions = tf.argmax(
       masked_lm_log_probs, axis=-1, output_type=tf.int32)
     # return masked_lm_predictions
-    return loss
+    return loss,per_example_loss
 
 
 def build_model():
@@ -233,12 +233,12 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
   for line in data:
     denominator += 1
     id, sent0, sent1 = line
-    sent0, sent1 = semantics.get_phrases(sent0.lower()), semantics.get_phrases(sent1.lower())
+#     sent0, sent1 = semantics.get_phrases(sent0.lower()), semantics.get_phrases(sent1.lower())
     l0, l1 = list(sent0), list(sent1)
     feed_dict0 = get_feed_dict(sent0, l0)
     feed_dict1 = get_feed_dict(sent1, l1)
-    loss0 = sess.run(loss, feed_dict=feed_dict0)
-    loss1 = sess.run(loss, feed_dict=feed_dict1)
+    loss0,per_example_loss0 = sess.run(loss, feed_dict=feed_dict0)
+    loss1,per_example_loss1 = sess.run(loss, feed_dict=feed_dict1)
     # print(id,sent0,sent1)
     # print("input_ids",feed_dict1["input_ids:0"])
     # print(loss0)
@@ -251,6 +251,8 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
     # # print(tokenizer.convert_ids_to_tokens(feed_dict0["input_ids:0"][0]))
     # print("predict",tokenizer.convert_ids_to_tokens(p1))
     # print(loss0[1].shape)
+    print(sent0,sent1)
+    print(per_example_loss0,,per_example_loss1)
     loss_diff = loss0 - loss1
     res = []
     if loss0 < loss1:
