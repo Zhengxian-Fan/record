@@ -8,7 +8,6 @@ from absl import flags
 import modeling
 import tensorflow as tf
 import tokenization
-import semantics
 
 flags = tf.flags
 
@@ -181,7 +180,7 @@ def get_feed_dict(sent, l):
       else:
         input_ids[j] += tokens
     index += len(tokens)
-
+  
   """Do zero padding """
   for i in range(len(l)):
     # '[CLS]' '[SEP]'
@@ -190,6 +189,13 @@ def get_feed_dict(sent, l):
       mlm_positions[i].append(0)
       mlm_ids[i].append(0)
       mlm_weights[i].append(0)
+  for i in range(len(l)):
+    for j in len(input_ids[i]):
+      if input_ids[i][j] == 4:
+        if input_ids[i][j+1]==4: break
+        if input_ids[i][j+1] != 3: input_ids[i][j+1]=4
+        if input_ids[i][j-1] !=2: input_ids[i][j-1]=4
+        break
   d["input_ids:0"] = input_ids
   d["mlm_positions:0"] = mlm_positions
   d["mlm_ids:0"] = mlm_ids
@@ -233,7 +239,7 @@ with open(data_path) as f, open(ans_path) as g, open(output_path, "w") as o:
   for line in data:
     denominator += 1
     id, sent0, sent1 = line
-    sent0, sent1 = sent0.split(' '), sent1.split(' ')
+    sent0, sent1 = sent0.lower().split(' '), sent1.lower().split(' ')
 #     sent0, sent1 = semantics.get_phrases(sent0.lower()), semantics.get_phrases(sent1.lower())
     l0, l1 = list(sent0), list(sent1)
     feed_dict0 = get_feed_dict(sent0, l0)
